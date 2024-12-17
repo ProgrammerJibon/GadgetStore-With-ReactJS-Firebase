@@ -1,0 +1,709 @@
+[
+    {
+        "product_id": "L001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://lh3.googleusercontent.com/proxy/Kkjzqnxhj9daehxgUnofHG9eEqPfiXJ9Wxqx7xaZ_o3GjJwSmJJ2JqcEaYjbRLSQhodA1JTim3NWqivjiQG2spUPsBT4crXlOoqRT3uAFEXH-4WPCs_JMbYqxwtjVuy2a3Ro12wmrdJy3lIRgXxdaI8",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "A high-performance laptop with stunning display and sleek design.",
+        "specification": [
+            "13.3-inch FHD display",
+            "Intel i7 11th Gen",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "L002",
+        "product_title": "Apple MacBook Pro",
+        "product_image": "https://mcsolution.com.bd/wp-content/uploads/2021/03/New-Apple-MacBook-Pro-M1-Chip-1200x1452.jpg",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "Powerful performance with Apple's M1 chip and long battery life.",
+        "specification": [
+            "13-inch Retina display",
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "L003",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LYwyoHWn8JYi6qUSfLq99yDN5dl3LC1oXw&s",
+        "category": "Laptops",
+        "price": 1199.99,
+        "description": "A versatile 2-in-1 laptop with stunning design and performance.",
+        "specification": [
+            "13.3-inch 4K UHD display",
+            "Intel i7 11th Gen",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "L004",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ytimg.com/vi/v_Po_TROcac/hqdefault.jpg",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "A lightweight, powerful laptop designed for business professionals.",
+        "specification": [
+            "14-inch FHD display",
+            "Intel i7 10th Gen",
+            "16GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "L005",
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://www.notebookcheck.net/fileadmin/_processed_/8/2/csm_IMG_2120_22dba18202.jpg",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "A sleek, stylish laptop with impressive performance and battery life.",
+        "specification": [
+            "13.5-inch PixelSense display",
+            "Intel i7 11th Gen",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "L006",
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://i.rtings.com/assets/products/Bgn1oH2l/hp-spectre-x360-14-2023/design-medium.jpg?format=auto",
+        "category": "Laptops",
+        "price": 1099.99,
+        "description": "A compact and powerful laptop with a stunning display.",
+        "specification": [
+            "14-inch FHD display",
+            "Intel i7 11th Gen",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "L007",
+        "product_title": "Acer Swift 3",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF9x761ILvFs9r64_klZfAvptPPtqm7r2txg&s",
+        "category": "Laptops",
+        "price": 899.99,
+        "description": "A lightweight, budget-friendly laptop with good performance.",
+        "specification": [
+            "14-inch FHD display",
+            "AMD Ryzen 7",
+            "8GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5CMhHSEZ4s7kVxJA4qKu2knOC-BHNdHZvQ&s",
+        "category": "Phones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNu19WwQMM_Ckj_q8Y61IhIrBHhsc8e3gaw&s",
+        "category": "Phones",
+        "price": 1199,
+        "description": "The best of Samsung with an amazing camera and performance.",
+        "specification": [
+            "6.8-inch QHD+ Dynamic AMOLED display",
+            "Exynos 2200",
+            "Quad-camera system (108MP Main, 12MP Ultra-Wide, 10MP Periscope Telephoto, 10MP Telephoto)",
+            "S-Pen support",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://jmau.imgix.net/media/catalog/product/a/j/aj5s8pa-hp-spectre-x360.jpg?auto=compress&auto=format&fill-color=FFFFFF&fit=fill&fill=solid&w=496&h=279",
+        "category": "Phones",
+        "price": 999,
+        "description": "Google's flagship phone with the best Android experience.",
+        "specification": [
+            "6.7-inch QHD+ OLED display",
+            "Google Tensor G2 chip",
+            "Triple-camera system (50MP Main, 48MP Telephoto, 12MP Ultrawide)",
+            "Titan M2 security chip",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P004",
+        "product_title": "OnePlus 10 Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Phones",
+        "price": 899,
+        "description": "A flagship killer with high-end specs and OxygenOS.",
+        "specification": [
+            "6.7-inch QHD+ Fluid AMOLED display",
+            "Snapdragon 8 Gen 1",
+            "Triple-camera system (48MP Main, 8MP Telephoto, 50MP Ultra-Wide)",
+            "Hasselblad camera for mobile",
+            "Up to 256GB storage"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Sony Xperia 1 IV",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Phones",
+        "price": 1199,
+        "description": "A phone for multimedia creators with a 4K display.",
+        "specification": [
+            "6.5-inch 4K HDR OLED display",
+            "Snapdragon 8 Gen 1",
+            "Triple-camera system (12MP Main, 12MP Telephoto, 12MP Ultra-Wide)",
+            "ZEISS optics",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Xiaomi Mi 12 Ultra",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Phones",
+        "price": 1099,
+        "description": "A powerful phone with a focus on camera performance.",
+        "specification": [
+            "6.81-inch WQHD+ AMOLED display",
+            "Snapdragon 8 Gen 1",
+            "Quad-camera system (50MP Main, 48MP Telephoto, 48MP Ultra-Wide, 48MP Periscope)",
+            "Leica partnership",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Oppo Find X5 Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Phones",
+        "price": 999,
+        "description": "A stylish phone with cutting-edge technology.",
+        "specification": [
+            "6.7-inch QHD+ AMOLED display",
+            "Snapdragon 8 Gen 1",
+            "Triple-camera system (50MP Main, 50MP Ultra-Wide, 13MP Telephoto)",
+            "Hasselblad tuning",
+            "Up to 256GB storage"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "A001",
+        "product_title": "Apple AirPods Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "Experience immersive sound with active noise cancellation.",
+        "specification": [
+            "Active Noise Cancellation",
+            "Transparency mode",
+            "Customizable fit",
+            "Wireless charging case",
+            "24 hours of listening time"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "A002",
+        "product_title": "Samsung Galaxy Buds Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 199.99,
+        "description": "Premium sound quality with intelligent ANC.",
+        "specification": [
+            "Intelligent Active Noise Cancellation",
+            "IPX7 water resistance",
+            "11 hours of playtime",
+            "Ambient sound mode",
+            "Wireless charging case"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "A003",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 349.99,
+        "description": "Industry-leading noise-canceling headphones with exceptional sound quality.",
+        "specification": [
+            "Industry-leading noise cancellation",
+            "30 hours of battery life",
+            "Touch sensor controls",
+            "Quick attention mode",
+            "Adaptive sound control"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "A004",
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "Advanced wireless mouse with ultra-fast scrolling and precision control.",
+        "specification": [
+            "Ultrafast scrolling",
+            "Comfort shape",
+            "USB-C quick charging",
+            "Customizable buttons",
+            "Cross-computer control"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "A005",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 29.99,
+        "description": "Compact and portable power bank with high-speed charging.",
+        "specification": [
+            "10000mAh capacity",
+            "High-speed charging",
+            "Ultra-compact design",
+            "MultiProtect safety system",
+            "USB-C and Micro-USB input"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "A006",
+        "product_title": "JBL Flip 5",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 119.99,
+        "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+        "specification": [
+            "IPX7 waterproof",
+            "12 hours of playtime",
+            "PartyBoost feature",
+            "Durable fabric material",
+            "USB-C charging"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "A007",
+        "product_title": "Amazon Kindle Paperwhite",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Accessories",
+        "price": 129.99,
+        "description": "Enjoy reading with a high-resolution display and waterproof design.",
+        "specification": [
+            "6-inch high-resolution display",
+            "Waterproof",
+            "Adjustable warm light",
+            "Weeks of battery life",
+            "8GB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "S001",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "The latest Apple Watch with advanced health monitoring and fitness tracking.",
+        "specification": [
+            "Always-on Retina display",
+            "Blood Oxygen app",
+            "ECG app",
+            "Swimproof",
+            "Up to 18 hours of battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "S002",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 329,
+        "description": "A versatile smartwatch with health tracking and customizable watch faces.",
+        "specification": [
+            "Super AMOLED display",
+            "BioActive sensor",
+            "GPS",
+            "Water-resistant",
+            "Up to 40 hours of battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "S003",
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 229,
+        "description": "A feature-packed smartwatch with built-in GPS and heart rate monitoring.",
+        "specification": [
+            "Built-in GPS",
+            "Heart rate monitor",
+            "Sleep tracking",
+            "Water-resistant",
+            "Up to 6 days of battery life"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "S004",
+        "product_title": "Garmin Forerunner 945",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 499,
+        "description": "A high-performance smartwatch designed for serious athletes.",
+        "specification": [
+            "Full-color display",
+            "VO2 max monitoring",
+            "Music storage",
+            "Water-resistant",
+            "Up to 2 weeks of battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "S005",
+        "product_title": "Huawei Watch GT 3",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 249,
+        "description": "A sleek smartwatch with advanced health monitoring features.",
+        "specification": [
+            "AMOLED display",
+            "SpO2 monitoring",
+            "GPS",
+            "Water-resistant",
+            "Up to 14 days of battery life"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "S006",
+        "product_title": "Amazfit GTR 3 Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 199,
+        "description": "A stylish smartwatch with long battery life and fitness tracking.",
+        "specification": [
+            "AMOLED display",
+            "BioTracker PPG 3.0",
+            "GPS",
+            "Water-resistant",
+            "Up to 12 days of battery life"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "S007",
+        "product_title": "Fossil Gen 6",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "Smart Watches",
+        "price": 299,
+        "description": "A premium smartwatch with fast charging and advanced health tracking.",
+        "specification": [
+            "AMOLED display",
+            "SpO2 monitoring",
+            "GPS",
+            "Water-resistant",
+            "Fast charging"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "M001",
+        "product_title": "MacBook Air (M1, 2020)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 999,
+        "description": "A lightweight MacBook with impressive performance and long battery life.",
+        "specification": [
+            "13.3-inch Retina display",
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "Up to 18 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "M002",
+        "product_title": "MacBook Pro 14-inch (M1 Pro, 2021)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 1999,
+        "description": "A powerful MacBook Pro with advanced performance and stunning display.",
+        "specification": [
+            "14.2-inch Liquid Retina XDR display",
+            "Apple M1 Pro chip",
+            "16GB RAM",
+            "512GB SSD",
+            "Up to 17 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "M003",
+        "product_title": "MacBook Pro 16-inch (M1 Max, 2021)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 2499,
+        "description": "The ultimate MacBook Pro with top-tier performance and a large display.",
+        "specification": [
+            "16.2-inch Liquid Retina XDR display",
+            "Apple M1 Max chip",
+            "32GB RAM",
+            "1TB SSD",
+            "Up to 21 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "M004",
+        "product_title": "MacBook Air (M2, 2022)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 1099,
+        "description": "A sleek MacBook Air with improved performance and efficiency.",
+        "specification": [
+            "13.3-inch Retina display",
+            "Apple M2 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "Up to 20 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "M005",
+        "product_title": "MacBook Pro 14-inch (M2 Pro, 2023)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 2299,
+        "description": "A high-performance MacBook Pro with the latest M2 Pro chip.",
+        "specification": [
+            "14.2-inch Liquid Retina XDR display",
+            "Apple M2 Pro chip",
+            "16GB RAM",
+            "512GB SSD",
+            "Up to 18 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "M006",
+        "product_title": "MacBook Pro 16-inch (M2 Max, 2023)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 2799,
+        "description": "The most powerful MacBook Pro with the M2 Max chip and a large display.",
+        "specification": [
+            "16.2-inch Liquid Retina XDR display",
+            "Apple M2 Max chip",
+            "32GB RAM",
+            "1TB SSD",
+            "Up to 22 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "M007",
+        "product_title": "MacBook Air (M3, 2024)",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "MacBook",
+        "price": 1199,
+        "description": "The latest MacBook Air with enhanced performance and efficiency.",
+        "specification": [
+            "13.3-inch Retina display",
+            "Apple M3 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "Up to 22 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "I001",
+        "product_title": "Apple iPhone 13 Mini",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 699,
+        "description": "Compact and powerful with advanced camera features.",
+        "specification": [
+            "5.4-inch Super Retina XDR display",
+            "A15 Bionic chip",
+            "Dual-camera system (12MP Ultra Wide, 12MP Wide)",
+            "5G capable",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "I002",
+        "product_title": "Apple iPhone 13",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 799,
+        "description": "The standard iPhone model with powerful performance and great battery life.",
+        "specification": [
+            "6.1-inch Super Retina XDR display",
+            "A15 Bionic chip",
+            "Dual-camera system (12MP Ultra Wide, 12MP Wide)",
+            "5G capable",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "I003",
+        "product_title": "Apple iPhone 13 Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 999,
+        "description": "Pro performance with advanced camera system and ProMotion display.",
+        "specification": [
+            "6.1-inch Super Retina XDR display with ProMotion",
+            "A15 Bionic chip",
+            "Triple-camera system (12MP Ultra Wide, 12MP Wide, 12MP Telephoto)",
+            "LiDAR Scanner",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "I004",
+        "product_title": "Apple iPhone 13 Pro Max",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "The ultimate iPhone experience with the largest display and best battery life.",
+        "specification": [
+            "6.7-inch Super Retina XDR display with ProMotion",
+            "A15 Bionic chip",
+            "Triple-camera system (12MP Ultra Wide, 12MP Wide, 12MP Telephoto)",
+            "LiDAR Scanner",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "I005",
+        "product_title": "Apple iPhone 14",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 799,
+        "description": "The latest standard model with advanced features and improved battery life.",
+        "specification": [
+            "6.1-inch Super Retina XDR display",
+            "A16 Bionic chip",
+            "Dual-camera system (12MP Ultra Wide, 12MP Wide)",
+            "5G capable",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "I006",
+        "product_title": "Apple iPhone 14 Pro",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 999,
+        "description": "Professional-grade performance with an advanced camera system.",
+        "specification": [
+            "6.1-inch Super Retina XDR display with ProMotion",
+            "A16 Bionic chip",
+            "Triple-camera system (12MP Ultra Wide, 12MP Wide, 12MP Telephoto)",
+            "LiDAR Scanner",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "I007",
+        "product_title": "Apple iPhone 14 Pro Max",
+        "product_image": "https://img.freepik.com/premium-photo/laptop-with-blank-black-screen-standing-desk-with-office-supplies_249974-15111.jpg",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "The pinnacle of the iPhone lineup with the largest display and best performance.",
+        "specification": [
+            "6.7-inch Super Retina XDR display with ProMotion",
+            "A16 Bionic chip",
+            "Triple-camera system (12MP Ultra Wide, 12MP Wide, 12MP Telephoto)",
+            "LiDAR Scanner",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9
+    }
+]
